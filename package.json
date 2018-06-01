@@ -1,0 +1,15 @@
+{
+  "name": "todos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "electron": "electron ."
+  },
+  "dependencies": {
+    "electron": "^2.0.2"
+  },
+  "devDependencies": {
+    "@types/electron": "^1.6.10"
+  }
+}
